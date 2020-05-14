@@ -1,0 +1,5 @@
+D:\pyweb\py37
+*.pyc
+__pycache__
+staticfiles
+db.sqlite3
