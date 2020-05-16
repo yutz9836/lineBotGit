@@ -50,7 +50,8 @@ tblib==1.6.0
 testpath==0.4.4
 
 
-
+dj-static-0.0.6
+static3-0.7.0
 
 urllib3==1.25.8
 
@@ -62,6 +63,5 @@ whitenoise==5.0.1
 win-unicode-console==0.5
 
 
-
-
+psycopg2
 
