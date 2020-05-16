@@ -50,8 +50,8 @@ tblib==1.6.0
 testpath==0.4.4
 
 
-dj-static-0.0.6
-static3-0.7.0
+dj-static==0.0.6
+static3==0.7.0
 
 urllib3==1.25.8
 
