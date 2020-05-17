@@ -11,10 +11,10 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 from .settings import *
 
-import dj_database_url
+import dj-database-url
 
 DATABASES = {
-    'default': dj_database_url.config(),
+    'default': dj-database-url.config(),
 }
 
 # Static asset configuration.
