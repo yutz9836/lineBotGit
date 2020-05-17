@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 from .settings import *
 
-import dj-database-url
+import dj_database_url
 
 DATABASES = {
     'default': dj_database_url.config(),
