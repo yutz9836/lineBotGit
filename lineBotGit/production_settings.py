@@ -14,7 +14,7 @@ from .settings import *
 import dj-database-url
 
 DATABASES = {
-    'default': dj-database-url.config(),
+    'default': dj_database_url.config(),
 }
 
 # Static asset configuration.
