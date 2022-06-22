@@ -16,7 +16,7 @@ line-bot-sdk==1.8.0
 mysql-connector==2.2.9
 
 
-numpy==1.18.1
+numpy==1.22.0
 
 
 
